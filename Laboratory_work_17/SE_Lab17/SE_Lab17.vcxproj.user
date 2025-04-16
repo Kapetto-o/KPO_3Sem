@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>-in:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\in.txt" -log:D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\log.log -out:D:\Poman\prog\C++\SE_3SEM\3_SEM\SE_Lab17\out.out</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>-in:D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\in.txt -out:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\out.out" -log:"D:\Poman\prog\C++\3_SEM\SE_3SEM\SE_Lab17\log.log"</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

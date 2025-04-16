@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:MFST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:GRB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:GRB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:LexicalAnalize.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:MFST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A750CDFB-2F4F-4C6C-BC2E-5CCA7BCAFEB9}|laba__20.vcxproj|solutionrelative:LexicalAnalize.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LexicalAnalize.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.h",
+              "RelativeDocumentMoniker": "LexicalAnalize.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.h",
+              "RelativeToolTip": "LexicalAnalize.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T13:04:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MFST.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.h",
+              "RelativeDocumentMoniker": "MFST.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.h",
+              "RelativeToolTip": "MFST.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T12:54:17.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MFST.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.cpp",
+              "RelativeDocumentMoniker": "MFST.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\MFST.cpp",
+              "RelativeToolTip": "MFST.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:53:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GRB.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.h",
+              "RelativeDocumentMoniker": "GRB.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.h",
+              "RelativeToolTip": "GRB.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T12:48:31.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FST.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\FST.h",
+              "RelativeDocumentMoniker": "FST.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\FST.h",
+              "RelativeToolTip": "FST.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T12:48:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GRB.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.cpp",
+              "RelativeDocumentMoniker": "GRB.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\GRB.cpp",
+              "RelativeToolTip": "GRB.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:46:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LexicalAnalize.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.cpp",
+              "RelativeDocumentMoniker": "LexicalAnalize.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\laboratory_work_18\\SE_Lab21\\LexicalAnalize.cpp",
+              "RelativeToolTip": "LexicalAnalize.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:46:12.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

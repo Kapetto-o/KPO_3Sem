@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Graphs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|solutionrelative:SE_Lab17\\Graphs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|solutionrelative:SE_Lab17\\FST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|solutionrelative:SE_Lab17\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Parm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|solutionrelative:SE_Lab17\\Parm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA16D15-0D75-4A6C-8550-F2B8D61203E2}|SE_Lab17\\SE_Lab17.vcxproj|solutionrelative:SE_Lab17\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graphs.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Graphs.h",
+              "RelativeDocumentMoniker": "SE_Lab17\\Graphs.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Graphs.h",
+              "RelativeToolTip": "SE_Lab17\\Graphs.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T12:31:52.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FST.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\FST.h",
+              "RelativeDocumentMoniker": "SE_Lab17\\FST.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\FST.h",
+              "RelativeToolTip": "SE_Lab17\\FST.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T12:04:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parm.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Parm.h",
+              "RelativeDocumentMoniker": "SE_Lab17\\Parm.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Parm.h",
+              "RelativeToolTip": "SE_Lab17\\Parm.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T12:04:32.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.h",
+              "RelativeDocumentMoniker": "SE_Lab17\\Error.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.h",
+              "RelativeToolTip": "SE_Lab17\\Error.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T12:04:28.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.cpp",
+              "RelativeDocumentMoniker": "SE_Lab17\\Error.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\Laboratory_work_17\\laboratory_work_17.3\\SE_Lab17\\Error.cpp",
+              "RelativeToolTip": "SE_Lab17\\Error.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T11:29:24.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

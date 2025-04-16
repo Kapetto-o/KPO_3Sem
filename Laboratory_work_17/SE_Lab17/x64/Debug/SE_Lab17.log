@@ -1,0 +1,76 @@
+﻿Сборка начата 05.12.2024 14:50:22.
+Уровень детализации журнала: Normal.     1>Проект "D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\SE_Lab17.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+         Создание каталога "D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\x64\Debug\".
+         Создание каталога "x64\Debug\SE_Lab17.tlog\".
+       InitializeBuildStatus:
+         Создание "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Error.cpp FST.cpp In.cpp IT.cpp LexAnalysis.cpp Log.cpp LT.cpp Out.cpp Parm.cpp SE_Lab17.cpp
+         Error.cpp
+         FST.cpp
+         In.cpp
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\FST.cpp(62,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         IT.cpp
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(78,32): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(98,32): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         LexAnalysis.cpp
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(32,13): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(47,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(59,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(62,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(78,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(80,17): warning C4305: =: усечение из "int" в "char"
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         Log.cpp
+         LT.cpp
+         Out.cpp
+         Parm.cpp
+         SE_Lab17.cpp
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\SE_Lab17.cpp(19,5): warning C4102: Log: неиспользованная метка
+         Создание кода...
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LT.cpp(23,1): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(159,1): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+     1>D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(195,1): warning C4172: возвращаемый адрес локальной переменной или временного : tempBuf
+       Link:
+         D:\Programs\VisualStudio\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\x64\Debug\SE_Lab17.exe" /INCREMENTAL /ILK:"x64\Debug\SE_Lab17.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\x64\Debug\SE_Lab17.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\x64\Debug\SE_Lab17.lib" /MACHINE:X64 x64\Debug\Error.obj
+         x64\Debug\FST.obj
+         x64\Debug\In.obj
+         x64\Debug\IT.obj
+         x64\Debug\LexAnalysis.obj
+         x64\Debug\Log.obj
+         x64\Debug\LT.obj
+         x64\Debug\Out.obj
+         x64\Debug\Parm.obj
+         x64\Debug\SE_Lab17.obj
+         SE_Lab17.vcxproj -> D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\x64\Debug\SE_Lab17.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\SE_Lab17.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\SE_Lab17.tlog\SE_Lab17.lastbuildstate".
+     1>Сборка проекта "D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\SE_Lab17.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\SE_Lab17.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\FST.cpp(62,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(78,32): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(98,32): warning C4267: =: преобразование из "size_t" в "unsigned char"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(32,13): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(47,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(59,15): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(62,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(78,14): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(80,17): warning C4305: =: усечение из "int" в "char"
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LexAnalysis.cpp(80,17): warning C4309: =: усечение константного значения
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\SE_Lab17.cpp(19,5): warning C4102: Log: неиспользованная метка
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\LT.cpp(23,1): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(159,1): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
+         D:\GitHub\BSTU\course_2\KPO_3\Laboratory_work_17\laboratory_work_17.3\SE_Lab17\IT.cpp(195,1): warning C4172: возвращаемый адрес локальной переменной или временного : tempBuf
+
+    Предупреждений: 14
+    Ошибок: 0
+
+Прошло времени 00:00:15.63

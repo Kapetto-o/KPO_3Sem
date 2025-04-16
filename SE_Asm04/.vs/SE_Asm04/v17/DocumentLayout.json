@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB16C9F-B815-4AF1-8A35-D9AFFD5DF3A3}|SE_Asm04\\SE_Asm04.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\SE_Asm04\\SE_Asm04.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CB16C9F-B815-4AF1-8A35-D9AFFD5DF3A3}|SE_Asm04\\SE_Asm04.vcxproj|solutionrelative:SE_Asm04\\SE_Asm04.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|solutionrelative:Deserealizer\\Deserealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|solutionrelative:Serealizer\\Serealizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|solutionrelative:Serealizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05A94DF4-B521-484F-9194-3ECEB954900C}|Serealizer\\Serealizer.vcxproj|solutionrelative:Serealizer\\Serealizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\AsmTemplate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|solutionrelative:Deserealizer\\AsmTemplate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|solutionrelative:Deserealizer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D57BEF5F-1E59-4E8B-9044-4289C23B1CFA}|Deserealizer\\Deserealizer.vcxproj|solutionrelative:Deserealizer\\Deserealizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\necessary\\GeneratedASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:necessary\\GeneratedASM.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\AsmTemplate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Serealizer.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.cpp",
+              "RelativeDocumentMoniker": "Serealizer\\Serealizer.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.cpp",
+              "RelativeToolTip": "Serealizer\\Serealizer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:09:53.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\main.cpp",
+              "RelativeDocumentMoniker": "Serealizer\\main.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\main.cpp",
+              "RelativeToolTip": "Serealizer\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:09:46.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\main.cpp",
+              "RelativeDocumentMoniker": "..\\SE_ASM04154151\\Deserializer\\main.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\main.cpp",
+              "RelativeToolTip": "..\\SE_ASM04154151\\Deserializer\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:09:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\main.cpp",
+              "RelativeDocumentMoniker": "Deserealizer\\main.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\main.cpp",
+              "RelativeToolTip": "Deserealizer\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:09:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsmTemplate.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\AsmTemplate.h",
+              "RelativeDocumentMoniker": "Deserealizer\\AsmTemplate.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\AsmTemplate.h",
+              "RelativeToolTip": "Deserealizer\\AsmTemplate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:08:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AsmTemplate.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\AsmTemplate.h",
+              "RelativeDocumentMoniker": "..\\SE_ASM04154151\\Deserializer\\AsmTemplate.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\AsmTemplate.h",
+              "RelativeToolTip": "..\\SE_ASM04154151\\Deserializer\\AsmTemplate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:08:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Deserializer.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.cpp",
+              "RelativeDocumentMoniker": "..\\SE_ASM04154151\\Deserializer\\Deserializer.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.cpp",
+              "RelativeToolTip": "..\\SE_ASM04154151\\Deserializer\\Deserializer.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:08:30.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deserealizer.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.h",
+              "RelativeDocumentMoniker": "Deserealizer\\Deserealizer.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.h",
+              "RelativeToolTip": "Deserealizer\\Deserealizer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:08:20.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SE_Asm04.asm",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\SE_Asm04\\SE_Asm04.asm",
+              "RelativeDocumentMoniker": "SE_Asm04\\SE_Asm04.asm",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\SE_Asm04\\SE_Asm04.asm",
+              "RelativeToolTip": "SE_Asm04\\SE_Asm04.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T10:13:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Serealizer.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.h",
+              "RelativeDocumentMoniker": "Serealizer\\Serealizer.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Serealizer\\Serealizer.h",
+              "RelativeToolTip": "Serealizer\\Serealizer.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:09:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneratedASM.asm",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\necessary\\GeneratedASM.asm",
+              "RelativeDocumentMoniker": "necessary\\GeneratedASM.asm",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\necessary\\GeneratedASM.asm",
+              "RelativeToolTip": "necessary\\GeneratedASM.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T10:20:09.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deserializer.h",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.h",
+              "RelativeDocumentMoniker": "..\\SE_ASM04154151\\Deserializer\\Deserializer.h",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_ASM04154151\\Deserializer\\Deserializer.h",
+              "RelativeToolTip": "..\\SE_ASM04154151\\Deserializer\\Deserializer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T10:08:12.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deserealizer.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.cpp",
+              "RelativeDocumentMoniker": "Deserealizer\\Deserealizer.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_2\\KPO_3\\SE_Asm04\\Deserealizer\\Deserealizer.cpp",
+              "RelativeToolTip": "Deserealizer\\Deserealizer.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T10:08:08.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
